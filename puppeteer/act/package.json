@@ -1,0 +1,20 @@
+{
+  "name": "dev_local_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.968.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "install": "^0.13.0",
+    "puppeteer-core": "^10.2.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}

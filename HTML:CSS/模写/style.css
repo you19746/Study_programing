@@ -1,0 +1,96 @@
+header{
+	display: flex;
+	padding: 10px 10% 15px 10%;
+	vertical-align: bottom;
+}
+
+header div:first-child{
+	margin-right: auto;
+	font-size: 25px
+}
+
+.menu{
+	font-size: 15px;
+	padding: 10px 10px
+
+}
+
+p{
+	font-size: 10%
+}
+
+span{
+	font-size: 5%
+}
+
+.course_text{
+	margin-top: 0;
+}
+
+.course{
+	margin-bottom: 0
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+main{
+	margin: 0 10% 5% 10%;
+}
+
+.daytora, .course, .course_text{
+	display: flex;
+}
+
+.daytora div{
+	width: calc(100% / 2);
+}
+
+.daytora div:first-child{
+	text-align: center;
+}
+
+.course div, .course_text div{
+	width: calc(100% / 3);
+}
+
+.course_text div{
+	margin-bottom: 30px
+}
+
+.button{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.お問い合わせ{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.お問い合わせ input{
+	border-radius:20px;
+	padding: 8px 8px;
+	width: 60%;
+	border-color: #F2F2F2;
+}
+
+.button button{
+	width: 25%;
+	padding: 8px 8px;
+	background-color: #FF3366;
+	color: white;
+	border-radius: 3px;
+}
+
+footer{
+	margin: 0 10% 0 10%;
+}
+
+.footer{
+	font-size: 5px;
+	text-align: right;
+	margin-bottom: 20px
+}

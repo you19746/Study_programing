@@ -1,0 +1,12 @@
+html, body {
+    font-family: "ヒラギノ明朝 ProN W3 11.0d2e1"
+}
+
+h1{
+    color:red;
+    line-height: 0%;
+}
+
+.menu{
+    display:flex;
+}
